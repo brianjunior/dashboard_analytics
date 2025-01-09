@@ -1,0 +1,1 @@
+streamlit run "C:\Users\User\Desktop\microfin_graphs\main.py"
